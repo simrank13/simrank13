@@ -1,6 +1,6 @@
 ### Hi there, I'm Simran👋 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simrank13&layout=compact&theme=dark" alt="programming-widget" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simrank13&layout=compact&theme=dracula" alt="programming-widget" align="left"/>
 
 
 
