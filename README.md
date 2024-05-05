@@ -1,6 +1,6 @@
 ### Hi there, I'm Simran👋 
 <div align="center">
-  <img src="https://s1.ezgif.com/tmp/ezgif-1-22a1331212.webp" alt="Fractal Tree" />
+  <img src="https://s1.ezgif.com/tmp/ezgif-1-ca8f0fd08b.webp" alt="Fractal Tree" />
 </div>
 
 <div align="center">
