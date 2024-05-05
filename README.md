@@ -3,13 +3,8 @@
   <img src="https://s1.ezgif.com/tmp/ezgif-1-ca8f0fd08b.webp" alt="Fractal Tree" />
 </div>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simrank13&layout=compact&theme=radical" alt="programming-widget" />
-</div>
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/?username=simrank13&count_private=true&theme=radical&showicons=true" alt="programming-widget" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simrank13&layout=compact&theme=radical" alt="programming-widget" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/?username=simrank13&count_private=true&theme=radical&showicons=true" alt="programming-widget" align="right"/>
 
 
 
