@@ -1,6 +1,7 @@
 ### Hi there, I'm Simran👋 :)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simrank13&theme=dracula)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=simrank13&langs_count=5&theme=dracula)]()
+
 
 
 <!--
