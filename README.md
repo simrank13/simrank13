@@ -1,7 +1,7 @@
 ### Hi there, I'm Simran👋 
 <div align="center">
   <p>
-    <img src="https://i.giphy.com/3o7bu8qJpjldRYVeE0.webp" alt="Fractal Tree" />
+    <img src="https://i.giphy.com/3o7bu8qJpjldRYVeE0.webp" alt="Fractal Tree" style="background-color: transparent;" />
   </p>
 </div>
 
