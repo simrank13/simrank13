@@ -1,6 +1,6 @@
 ### Hi there, I'm Simran👋 :)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simrank13&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simrank13&theme=dracula)
 
 
 <!--
