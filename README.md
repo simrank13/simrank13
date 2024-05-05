@@ -8,7 +8,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simrank13&layout=compact&theme=radical" alt="programming-widget" align="left"/>
   <img src="https://github-readme-stats.vercel.app/api/?username=simrank13&count_private=true&theme=radical&showicons=true" alt="programming-widget" align="right"/>
   </div>
-
+  <span align="left">
+  </span>
+  <span>
+    
+  </span>
+  ---
 <div align="center"><i>Contact</i></div>
 <div align="center"><a href="mailto:simrankullar7@gmail">Email</a></div>
 
