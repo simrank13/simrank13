@@ -1,7 +1,7 @@
 ### Hi there, I'm Simran👋 
 <div align="center">
   <p>
-    <img src="[URL_OF_YOUR_GIF.gif](https://media1.tenor.com/m/LLv0Xas1LAsAAAAC/fractal-magical.gif)" alt="Fractal Tree" />
+    <img src="https://media1.tenor.com/m/LLv0Xas1LAsAAAAC/fractal-magical.gif" alt="Fractal Tree" />
   </p>
 </div>
 
