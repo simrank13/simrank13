@@ -1,10 +1,24 @@
 ### Hi there, I'm Simran👋 
-<div align="center">
-  <img src="https://s1.ezgif.com/tmp/ezgif-1-ca8f0fd08b.webp" alt="Fractal Tree" />
-</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simrank13&layout=compact&theme=radical" alt="programming-widget" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/?username=simrank13&count_private=true&theme=radical&showicons=true" alt="programming-widget" align="right"/>
+<div align="center">
+  <img src="https://tenor.com/view/geometry-math-design-gif-3462433" width="100">
+  </div>
+  <hr/>
+    <div align="center"><img src=""/></div>
+  <div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simrank13&layout=compact&theme=radical" alt="programming-widget" align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=simrank13&count_private=true&theme=radical&showicons=true" alt="programming-widget" align="right"/>
+  </div>
+  <span align="left">
+  </span>
+  <br/>
+
+
+---
+
+
+<div align="center"><i>Contact</i></div>
+<div align="center"><a href="mailto:polarspetroll@protonmail.com">Email</a></div>
 
 
 
