@@ -1,4 +1,9 @@
 ### Hi there, I'm Simran👋 
+<div align="center">
+  <p>
+    <img src="[URL_OF_YOUR_GIF.gif](https://media1.tenor.com/m/LLv0Xas1LAsAAAAC/fractal-magical.gif)" alt="Fractal Tree" />
+  </p>
+</div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simrank13&layout=compact&theme=radical" alt="programming-widget" align="left"/>
 
@@ -21,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
