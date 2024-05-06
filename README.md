@@ -1,7 +1,7 @@
 ### Hi there, I'm Simran👋 
 
-  ![simrank13's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simrank13&theme=radical&show_icons=true&hide_border=false&layout=compact)
-  ![simrank13's Stats](https://github-readme-stats.vercel.app/api?username=simrank13&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simrank13&theme=radical&show_icons=true&hide_border=false&layout=compact) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=simrank13&theme=radical&hide_border=false) ![Stats](https://github-readme-stats.vercel.app/api?username=simrank13&theme=radical&show_icons=true&hide_border=false&count_private=true)
+
 
 
 
