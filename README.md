@@ -11,8 +11,6 @@
   <span align="left">
   </span>
   <br/>
-  <span>
-  </span>
   
 ---
 
