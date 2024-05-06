@@ -1,10 +1,9 @@
 ### Hi there, I'm Simran👋 
 
 <div align="center">
-  <img src="planet.gif" width="100">
+  <img src="languages.gif" width="175" align="center">
   </div>
   <hr/>
-    <div align="center"><img src="https://media.tenor.com/FYR6iAkCCPQAAAAi/christmas-lights.gif"/></div>
   <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=polarspetroll&layout=compact&theme=dark&langs_count=15" width="300" height="300">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=polarspetroll&hide=issues&theme=dark" width="470" height="300">
