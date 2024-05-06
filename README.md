@@ -1,11 +1,7 @@
 ### Hi there, I'm Simran👋 
 
-<div style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simrank13&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top Languages">
-
-<div style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=simrank13&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Stats">
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simrank13&layout=compact&theme=cobalt" alt="programming-widget" align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=simrank13&count_private=true&theme=cobalt&showicons=true" alt="programming-widget" align="right"/>
 
 
 
