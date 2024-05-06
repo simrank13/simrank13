@@ -1,22 +1,27 @@
 ### Hi there, I'm Simran👋 
 
 <div align="center">
-  <img src="languages.gif" width="175" align="center">
-</div>
-<hr/>
-  <div>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=simrank13&layout=compact&theme=cobalt&langs_count=15" width="300" height="300" align="left">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=simrank13&hide=issues&theme=cobalt" width="470" height="300" align="right">
+  <img src="planet.gif" width="100">
+  </div>
+  <hr/>
+    <div align="center"><img src="https://media.tenor.com/FYR6iAkCCPQAAAAi/christmas-lights.gif"/></div>
+  <div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=polarspetroll&layout=compact&theme=dark&langs_count=15" width="300" height="300">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=polarspetroll&hide=issues&theme=dark" width="470" height="300">
   </div>
   <span align="left">
   </span>
   <br/>
-  
+  <span>
+
+</span>
+
 ---
 
 
 <div align="center"><i>Contact</i></div>
-<div align="center"><a href="mailto:simrankullar7@gmail.com">Email</a></div>
+<div align="center"><a href="mailto:polarspetroll@protonmail.com">Email</a></div>
+
 
 
 
