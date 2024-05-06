@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="languages.gif" width="175" align="center">
-</div>
+<hr/>
   <div align="center">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=simrank13&layout=compact&theme=cobalt&langs_count=15" width="300" height="300" align="left">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=simrank13&hide=issues&theme=cobalt" width="470" height="300" align="right">
