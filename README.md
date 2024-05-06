@@ -7,7 +7,13 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=simrank13&layout=compact&theme=cobalt&langs_count=15" width="300" height="300" align="left">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=simrank13&hide=issues&theme=cobalt" width="470" height="300" align="right">
   </div>
-
+  <span align="left">
+  </span>
+  <br/>
+  <span>
+  </span>
+  <div align="center"><i>Contact</i></div>
+  <div align="center"><a href="mailto:simrankullar7@gmail.com">Email</a></div>
 
 
 
