@@ -1,7 +1,7 @@
 ### Hi there, I'm Simran👋 
 
 <div align="center">
-  <img src="laptop.gif" width="100">
+  <img src="laptop.gif" width="200">
 </div>div>
 
 
