@@ -1,7 +1,7 @@
 ### Hi there, I'm Simran👋 
 
 <div align="center">
-  <img src="languages.gif" width="205" align="center">
+  <img src="languages.gif" width="200" align="center">
 </div>
 
 
