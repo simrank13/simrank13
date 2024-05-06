@@ -5,9 +5,6 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=simrank13&layout=compact&theme=tokyonight&langs_count=15" width="300" height="300">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=simrank13&hide=issues&theme=tokyonight" width="470" height="300">
 </div>
-<hr>
-  <div align="center">
-    <img src=
 
 
 
