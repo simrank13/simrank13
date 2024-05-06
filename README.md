@@ -12,6 +12,7 @@
   <br/>
   <span>
   </span>
+  <hr/>
   <div align="center"><i>Contact</i></div>
   <div align="center"><a href="mailto:simrankullar7@gmail.com">Email</a></div>
 
