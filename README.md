@@ -1,8 +1,9 @@
 ### Hi there, I'm Simran👋 
 
 <div align="center">
-  <img src="laptop.gif" width="200">
-</div>div>
+  <img src="laptop.gif" width="200" align="right">
+  <img src="languages.gif" width="200" align="left">
+</div>
 
 
 
