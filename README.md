@@ -18,11 +18,11 @@
 ---
 
 
-<div align="center"><i>Let's Contact!</i>
+<div align="center"><i>Let's Contact!</i><div></div>
 
 [<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />](simrankullar7@gmail.com)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />]([https://linkedin.com/in/gazijarin](https://www.linkedin.com/in/simran-kullar-a8238a275/))
-</div>
+
 
 
 
