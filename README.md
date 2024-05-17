@@ -18,7 +18,8 @@
 ---
 
 
-<div align="center"><i>Let's Contact!</i><div></div>
+<div align="center"><i>Let's Connect!</i><div></div>
+
 
 
 
